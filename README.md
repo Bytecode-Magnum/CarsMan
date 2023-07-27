@@ -52,6 +52,7 @@ The project code and analysis can be found in the Jupyter Notebook (Car_Manufact
 Feel free to explore the notebook to gain insights into the car manufacturing dataset. Your feedback and contributions are welcome!
 
 [Project File](https://github.com/Bytecode-Magnum/CarsManufactured_EDA/blob/main/Car_Manufactured_EDA.ipynb)
+
 [Data Visualization](https://github.com/Bytecode-Magnum/CarsManufactured_EDA/blob/main/Cars_Manufactured_Visualization.ipynb)
 
 ## Dependencies
