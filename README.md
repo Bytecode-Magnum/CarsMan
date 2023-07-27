@@ -41,6 +41,8 @@ Popularity: A measure of the car's popularity based on various factors.
 
 MSRP: The Manufacturer's Suggested Retail Price of the car model.
 
+[DataSet](https://github.com/Bytecode-Magnum/CarsManufactured_EDA/blob/main/car_data.csv)
+
 ## Project Steps
 In this Exploratory Data Analysis (EDA) project, we analyzed a comprehensive car manufacturing dataset containing information about various car models. We performed data cleaning to handle missing values and duplicates. Through data visualization, we gained insights into the distribution and relationships of different attributes such as MPG, MSRP, and popularity. Correlation analysis helped us identify significant connections between numerical variables. The project will follow these steps for exploratory data analysis:
 
@@ -48,6 +50,8 @@ In this Exploratory Data Analysis (EDA) project, we analyzed a comprehensive car
 The project code and analysis can be found in the Jupyter Notebook (Car_Manufacturing_EDA.ipynb). The dataset used for analysis is provided in the CSV format (car_manufacturing_dataset.csv).
 
 Feel free to explore the notebook to gain insights into the car manufacturing dataset. Your feedback and contributions are welcome!
+
+[Project File](https://github.com/Bytecode-Magnum/CarsManufactured_EDA/blob/main/Car_Manufactured_EDA.ipynb)
 
 ## Dependencies
 The project requires the following Python libraries:
